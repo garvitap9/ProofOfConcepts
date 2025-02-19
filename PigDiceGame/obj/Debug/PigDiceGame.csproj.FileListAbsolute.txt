@@ -1,0 +1,7 @@
+D:\DotNet Assignment1 Part3\PigDiceGame\bin\Debug\PigDiceGame.exe.config
+D:\DotNet Assignment1 Part3\PigDiceGame\bin\Debug\PigDiceGame.exe
+D:\DotNet Assignment1 Part3\PigDiceGame\bin\Debug\PigDiceGame.pdb
+D:\DotNet Assignment1 Part3\PigDiceGame\obj\Debug\PigDiceGame.csproj.AssemblyReference.cache
+D:\DotNet Assignment1 Part3\PigDiceGame\obj\Debug\PigDiceGame.csproj.CoreCompileInputs.cache
+D:\DotNet Assignment1 Part3\PigDiceGame\obj\Debug\PigDiceGame.exe
+D:\DotNet Assignment1 Part3\PigDiceGame\obj\Debug\PigDiceGame.pdb
